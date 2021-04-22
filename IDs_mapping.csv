@@ -1,0 +1,32 @@
+discharge_disposition_id,admission_source_id,admission_type_id
+,,
+Discharged to home, Physician Referral,Emergency
+Discharged/transferred to another short term hospital,Clinic Referral,Urgent
+Discharged/transferred to SNF,HMO Referral,Elective
+Discharged/transferred to ICF,Transfer from a hospital,Newborn
+Discharged/transferred to another type of inpatient care institution, Transfer from a Skilled Nursing Facility (SNF),Not Available
+Discharged/transferred to home with home health service, Transfer from another health care facility,Not Available
+Left AMA, Emergency Room,Trauma Center
+Discharged/transferred to home under care of Home IV provider, Court/Law Enforcement,Not Mapped
+Admitted as an inpatient to this hospital, Not Available,
+Neonate discharged to another hospital for neonatal aftercare, Transfer from critial access hospital,
+Expired,Normal Delivery,
+Still patient or expected to return for outpatient services, Premature Delivery,
+Hospice / home, Sick Baby,
+Hospice / medical facility, Extramural Birth,
+Discharged/transferred within this institution to Medicare approved swing bed,Not Available,
+Discharged/transferred/referred another institution for outpatient services,Not Available,
+Discharged/transferred/referred to this institution for outpatient services, Transfer From Another Home Health Agency,
+Not Available,Readmission to Same Home Health Agency,
+"Expired at home. Medicaid only, hospice.", Not Mapped,
+"Expired in a medical facility. Medicaid only, hospice.",Unknown/Invalid,
+"Expired, place unknown. Medicaid only, hospice.", Transfer from hospital inpt/same fac reslt in a sep claim,
+Discharged/transferred to another rehab fac including rehab units of a hospital ., Born inside this hospital,
+Discharged/transferred to a long term care hospital., Born outside this hospital,
+Discharged/transferred to a nursing facility certified under Medicaid but not certified under Medicare., Transfer from Ambulatory Surgery Center,
+Not Mapped,Transfer from Hospice,
+Unknown/Invalid,,
+Discharged/transferred to another Type of Health Care Institution not Defined Elsewhere,,
+Discharged/transferred to a federal health care facility.,,
+Discharged/transferred/referred to a psychiatric hospital of psychiatric distinct part unit of a hospital,,
+Discharged/transferred to a Critical Access Hospital (CAH).,,
